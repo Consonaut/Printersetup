@@ -30,9 +30,9 @@ P2_queue="lpd://PRINTER_IP/QUEUENAME"
 P2_options="-o printer-is-shared=false -o CNJobExecMode=store -o CNDuplex=None -o CNColorMode=mono -o ColorModel=Gray"
 
 P3_link="https://FILEHOST/Bibliothek.ppd"
-P3_filename="Bibliothek.ppd"
-P3_name="Bibliothek"
-P3_location="Bibliothek"
+P3_filename="Library.ppd"
+P3_name="Library"
+P3_location="Library"
 P3_queue="lpd://PRINTER_IP/QUEUENAME"
 P3_options="-o printer-is-shared=false -o CNJobExecMode=store -o CNDuplex=None -o CNColorMode=mono -o ColorModel=Gray"
 
