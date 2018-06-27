@@ -9,3 +9,5 @@ Supported Printers:
 ToDo:
 - Automate driver extraction
 - Clean up error handling
+- Allow printer selection
+- Move downloading adding to functions
