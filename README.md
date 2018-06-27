@@ -10,4 +10,4 @@ ToDo:
 - Automate driver extraction
 - Clean up error handling
 - Allow printer selection
-- Move downloading adding to functions
+- Move curl/lpadmin sections to functions
